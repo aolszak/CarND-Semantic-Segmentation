@@ -2,8 +2,11 @@
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
-Link to article:
+Link to articles:
+
 [http://sznur.com/semantic-segmentation-using-fully-convolutional-network](http://sznur.com/semantic-segmentation-using-fully-convolutional-network)
+
+[Medium](https://medium.com/@aolszak/udacity-self-driving-car-nanodegree-semantic-segmentation-using-fully-convolutional-network-4b54d4005ab9)
 
 ### Setup
 ##### Frameworks and Packages
