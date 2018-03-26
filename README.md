@@ -3,7 +3,7 @@
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
 Link to article:
-<a href="http://sznur.com/semantic-segmentation-using-fully-convolutional-network" target="_blank" ref="follow">http://sznur.com/semantic-segmentation-using-fully-convolutional-network</a>
+[http://sznur.com/semantic-segmentation-using-fully-convolutional-network](http://sznur.com/semantic-segmentation-using-fully-convolutional-network target="_blank")
 
 ### Setup
 ##### Frameworks and Packages
